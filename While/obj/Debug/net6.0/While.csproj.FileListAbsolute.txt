@@ -1,0 +1,15 @@
+C:\Users\Murk\C-\While\bin\Debug\net6.0\While.exe
+C:\Users\Murk\C-\While\bin\Debug\net6.0\While.deps.json
+C:\Users\Murk\C-\While\bin\Debug\net6.0\While.runtimeconfig.json
+C:\Users\Murk\C-\While\bin\Debug\net6.0\While.dll
+C:\Users\Murk\C-\While\bin\Debug\net6.0\While.pdb
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.dll
+C:\Users\Murk\C-\While\obj\Debug\net6.0\refint\While.dll
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.pdb
+C:\Users\Murk\C-\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+C:\Users\Murk\C-\While\obj\Debug\net6.0\ref\While.dll
