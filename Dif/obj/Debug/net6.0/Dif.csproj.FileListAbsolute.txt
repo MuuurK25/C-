@@ -1,0 +1,15 @@
+C:\Users\Murk\Desktop\Новая папка\Dif\bin\Debug\net6.0\Dif.exe
+C:\Users\Murk\Desktop\Новая папка\Dif\bin\Debug\net6.0\Dif.deps.json
+C:\Users\Murk\Desktop\Новая папка\Dif\bin\Debug\net6.0\Dif.runtimeconfig.json
+C:\Users\Murk\Desktop\Новая папка\Dif\bin\Debug\net6.0\Dif.dll
+C:\Users\Murk\Desktop\Новая папка\Dif\bin\Debug\net6.0\Dif.pdb
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.csproj.AssemblyReference.cache
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.AssemblyInfoInputs.cache
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.AssemblyInfo.cs
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.csproj.CoreCompileInputs.cache
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.dll
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\refint\Dif.dll
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.pdb
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\Dif.genruntimeconfig.cache
+C:\Users\Murk\Desktop\Новая папка\Dif\obj\Debug\net6.0\ref\Dif.dll
